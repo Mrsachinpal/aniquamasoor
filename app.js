@@ -22,7 +22,7 @@ const useRouter = require("./routes/user.js");
 const cookie = require("express-session/session/cookie.js");
 
 
-const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
+const MONGO_URL = "mongodb://127.0.0.1:27017/aniqua";
 
 main()
 .then(() => {
